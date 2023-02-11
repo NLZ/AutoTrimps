@@ -1,4 +1,4 @@
-var basepath = 'https://Quiaaaa.github.io/AutoTrimps/' //Link to your own Github here if you forked!
+var basepath = 'https://Zorn192.github.io/AutoTrimps/' //Link to your own Github here if you forked!
 
 //var isSteam = false;
 
@@ -25,4 +25,3 @@ function debug(message, type, lootIcon) {
 var MODULES = {}
 var startupDelay = 1000;
 setTimeout(initializeGraphs, startupDelay);
-
